@@ -3,3 +3,4 @@ raw_data
 processed_data
 discard
 eda_notebooks
+*model_artifacts*
